@@ -1,1 +1,2 @@
-test text file
+test text file changed first line
+added second line
